@@ -180,6 +180,31 @@ header .main .M_right img{
     color:#ffa800;
     margin-bottom: 5px;
 }
+.about .A_box .A_right .A_icon .A_tag p{
+    width:350px;
+    font-size:12px;
+    color:#d7d7d7;
+}
+.about .A_box .A_right button{
+    border:1px solid #ffa800;
+    background: none;
+    color:#ffa800;
+    padding: 9px 25px;
+    font-size:16px;
+    cursor:pointer;
+    border-radius:5px;
+    transition: 0.3s ease-in-out;
+}
+.about .A_box .A_right button i{
+    margin-left: 8px;
+}
+.about .A_box .A_right button:hover{
+    background-color: #ffa800;
+    color:#000;
+}
+
+/*menu*/
+
 
 
  
